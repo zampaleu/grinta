@@ -1,6 +1,7 @@
 # grinta
-Testing 
-commit open
+Git command 
+
+git config --list #user pushing ?
 
 pushh
 
